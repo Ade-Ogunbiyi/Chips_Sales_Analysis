@@ -10,6 +10,12 @@ Quantium's retail analytics team conducted an in-depth study of customer purchas
 # Introduction
 Quantium is a leader in using data to provide insights, with expertise in retail analytics. The team was tasked with studying the chips category to give actionable recommendations to the Category Manager. The project involved analyzing transaction and customer data, spotting trends, and comparing the performance of trial store layouts with control stores. Over several weeks, I worked on this project, contributing to data analysis and reporting.
 
+# Tools Used
+ - Excel
+ - Jupyter notebook
+ - Chatgpt
+ - Python
+
 # Data Exploration and Cleaning
 The initial step involved reviewing transaction and customer data for any inconsistencies or missing information. I spotted outliers in the total sales data and corrected them using the interquartile range (IQR) method to ensure the data was clean. Then, I merged transaction and customer datasets using loyalty card numbers to create a complete dataset for deeper analysis.
 
