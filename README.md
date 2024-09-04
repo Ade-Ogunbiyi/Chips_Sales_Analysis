@@ -16,6 +16,14 @@ The initial step involved reviewing transaction and customer data for any incons
 # Data Analysis and Insights
 We analyzed key metrics like total sales, sales drivers, and customer segments. Total sales reached $1,921,756.95, with the largest sales driven by mainstream customers and larger chip pack sizes. Visuals such as bar charts helped highlight top-selling products and stores, with 150g and 175g pack sizes being particularly popular. Customer segmentation revealed that older, mainstream customers were key drivers of sales.
 
+![Total Sales by Products](https://github.com/user-attachments/assets/8e7130b5-6dde-4bbf-a74a-09047ea5760d)
+
+![Total sales vs premium customer vs pack size](https://github.com/user-attachments/assets/b0009417-1b14-4274-98ff-1d583c21e8ed)
+
+![Total Sales by Pack Size](https://github.com/user-attachments/assets/d8f997c8-fcdd-4a35-8c36-61101a4ecbca)
+
+![sales customer segement](https://github.com/user-attachments/assets/e6737bea-303c-4aa6-9362-9467bf11e006)
+
 # Experimentation and Uplift Testing
 To select control stores, we used correlation metrics to find stores with similar sales patterns. The trial stores were compared with these controls, focusing on sales, customer numbers, and transaction data. Stores 77 and 88 performed better than their control counterparts, showing that the trial strategies were successful. The recommendation is to apply the best practices from these stores to other locations to increase sales.
 
