@@ -27,8 +27,13 @@ We analyzed key metrics like total sales, sales drivers, and customer segments. 
 # Experimentation and Uplift Testing
 To select control stores, we used correlation metrics to find stores with similar sales patterns. The trial stores were compared with these controls, focusing on sales, customer numbers, and transaction data. Stores 77 and 88 performed better than their control counterparts, showing that the trial strategies were successful. The recommendation is to apply the best practices from these stores to other locations to increase sales.
 
+![Trial 77 vs control store 31_1](https://github.com/user-attachments/assets/f796e294-12d9-427d-bfd5-a5f08040b284)
+
+![Trial 88 vs Control 159](https://github.com/user-attachments/assets/2c205769-2659-466e-960f-12f50f8af68a)
+
+
 # Conclusion and Recommendations
 This analysis provided valuable insights into customer behavior and how effective the trial store layouts were. The results suggest that boosting customer engagement is more important for increasing sales than simply focusing on transaction volume per customer. However, external factors could have influenced sales trends, so further research into seasonal effects and customer preferences is recommended.
 
 # Reflection and Lessons Learned
-During this internship, I gained hands-on experience in data analysis, statistical testing, and visualization techniques. I faced challenges such as dealing with data quality issues and interpreting complex data, but these obstacles helped me improve my skills. This experience strengthened my interest in retail analytics. 
+During this internship, I gained hands-on experience in data analysis, retail analysis, and visualization techniques. I faced challenges such as dealing with data quality issues and interpreting complex data, but these obstacles helped me improve my skills. This experience strengthened my interest in retail analytics. 
