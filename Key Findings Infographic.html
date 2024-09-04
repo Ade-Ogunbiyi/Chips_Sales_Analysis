@@ -1,0 +1,117 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Key Findings Infographic</title>
+      <style>
+          body {
+              font-family: Arial, sans-serif;
+              background-color: #f4f4f4;
+              margin: 0;
+              padding: 20px;
+          }
+          .container {
+              max-width: 800px;
+              margin: auto;
+              background: white;
+              padding: 20px;
+              border-radius: 8px;
+              box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+          }
+          h1 {
+              text-align: center;
+              color: #333;
+          }
+          .section {
+              margin: 20px 0;
+              padding: 10px;
+              border-radius: 5px;
+              position: relative;
+              overflow: hidden;
+          }
+          .section h2 {
+              color: #fff;
+              text-align: center;
+              padding: 10px;
+              background-color: #007BFF;
+              border-radius: 5px;
+              margin: 0;
+          }
+          .key-fact {
+              display: flex;
+              justify-content: space-between;
+              margin: 10px 0;
+              padding: 20px;
+              border-radius: 5px;
+              background: #e9ecef;
+              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+          }
+          .key-fact div {
+              flex: 1;
+              text-align: center;
+              padding: 20px;
+              border-radius: 5px;
+              background-color: #ffffff;
+              margin: 0 5px;
+              position: relative;
+              transition: transform 0.3s;
+          }
+          .key-fact div:hover {
+              transform: scale(1.05);
+          }
+          .circle {
+              position: absolute;
+              width: 100px;
+              height: 100px;
+              border-radius: 50%;
+              background-color: #28a745;
+              top: -50px;
+              left: calc(50% - 50px);
+              z-index: -1;
+          }
+          .triangle {
+              position: absolute;
+              width: 0;
+              height: 0;
+              border-left: 50px solid transparent;
+              border-right: 50px solid transparent;
+              border-bottom: 100px solid #ffc107;
+              top: -50px;
+              left: calc(50% - 50px);
+              z-index: -1;
+          }
+      </style>
+  </head>
+  <body>
+      <div class="container">
+          <h1>Key Findings Overview</h1>
+          
+          <div class="section">
+              <div class="circle"></div>
+              <h2>Total Sales</h2>
+              <div class="key-fact">
+                  <div><strong>Total Sales:</strong><br>$1,921,756.95</div>
+              </div>
+          </div>
+
+          <div class="section">
+              <div class="triangle"></div>
+              <h2>Customer Segments</h2>
+              <div class="key-fact">
+                  <div><strong>Top Segment:</strong><br>Older/Mainstream Customers</div>
+                  <div><strong>Popular Pack Sizes:</strong><br>150g and 175g</div>
+              </div>
+          </div>
+
+          <div class="section">
+              <div class="circle"></div>
+              <h2>Trial Store Performance</h2>
+              <div class="key-fact">
+                  <div><strong>Stores 77 & 88:</strong><br>Significant Sales Increase</div>
+                  <div><strong>Store 86:</strong><br>No Notable Difference</div>
+              </div>
+          </div>
+      </div>
+  </body>
+  </html>
