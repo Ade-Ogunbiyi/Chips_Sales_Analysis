@@ -1,8 +1,8 @@
 # Chips_Sales_Analysis (Virtual Internship)
- Evaluating how different customer segments and trial stores are performing for a major retailer. This analysis dives into data-driven insights, highlighting customer behavior, product preferences, and how marketing strategies are affecting sales across various store locations
+ This project evaluating how different customer segments and trial stores are performing for a major retailer. This analysis dives into data-driven insights, highlighting customer behavior, product preferences, and how marketing strategies are affecting sales across various store locations.
 
 # Executive Summary
-Quantium's retail analytics team conducted an in-depth study of customer purchasing behavior in the chips category to guide strategic decisions for the next half-year. The goal was to evaluate how trial store layouts compared to regular store setups, focusing on key metrics like total sales, customer engagement, and shopping patterns. The findings showed that trial stores 77 and 88 saw notable sales growth, driven by an increase in customer visits, while store 86 didn’t perform much differently from its control. The team recommends adopting successful strategies from the trial stores to boost customer traffic across all locations.
+Quantium's retail analytics team which i was privileged to be part of,conducted an in-depth study of customer purchasing behavior in the chips category to guide strategic decisions for the next half-year. The goal was to evaluate how trial store layouts compared to regular store setups, focusing on key metrics like total sales, customer engagement, and shopping patterns. My findings showed that trial stores 77 and 88 saw notable sales growth, driven by an increase in customer visits, while store 86 didn’t perform much differently from its control. My recommendation was to adopt successful strategies from the trial stores to boost customer traffic across all locations.
 
 ![Infographic Key Findings](https://github.com/user-attachments/assets/8c627bf7-2d9f-4e6c-b340-619318fe3711)
 
@@ -20,7 +20,7 @@ Quantium is a leader in using data to provide insights, with expertise in retail
 The initial step involved reviewing transaction and customer data for any inconsistencies or missing information. I spotted outliers in the total sales data and corrected them using the interquartile range (IQR) method to ensure the data was clean. Then, I merged transaction and customer datasets using loyalty card numbers to create a complete dataset for deeper analysis.
 
 # Data Analysis and Insights
-We analyzed key metrics like total sales, sales drivers, and customer segments. Total sales reached $1,921,756.95, with the largest sales driven by mainstream customers and larger chip pack sizes. Visuals such as bar charts helped highlight top-selling products and stores, with 150g and 175g pack sizes being particularly popular. Customer segmentation revealed that older, mainstream customers were key drivers of sales.
+I analyzed key metrics like total sales, sales drivers, and customer segments. Total sales reached $1,921,756.95, with the largest sales driven by mainstream customers and larger chip pack sizes. Visuals such as bar charts helped highlight top-selling products and stores, with 150g and 175g pack sizes being particularly popular. Customer segmentation revealed that older, mainstream customers were key drivers of sales.
 
 ![Total Sales by Products](https://github.com/user-attachments/assets/8e7130b5-6dde-4bbf-a74a-09047ea5760d)
 
@@ -31,7 +31,7 @@ We analyzed key metrics like total sales, sales drivers, and customer segments. 
 ![sales customer segement](https://github.com/user-attachments/assets/e6737bea-303c-4aa6-9362-9467bf11e006)
 
 # Experimentation and Uplift Testing
-To select control stores, we used correlation metrics to find stores with similar sales patterns. The trial stores were compared with these controls, focusing on sales, customer numbers, and transaction data. Stores 77 and 88 performed better than their control counterparts, showing that the trial strategies were successful. The recommendation is to apply the best practices from these stores to other locations to increase sales.
+To select control stores, I used correlation metrics to find stores with similar sales patterns. The trial stores were compared with these controls, focusing on sales, customer numbers, and transaction data. Stores 77 and 88 performed better than their control counterparts, showing that the trial strategies were successful. The recommendation is to apply the best practices from these stores to other locations to increase sales.
 
 ![Trial 77 vs control store 31_1](https://github.com/user-attachments/assets/f796e294-12d9-427d-bfd5-a5f08040b284)
 
