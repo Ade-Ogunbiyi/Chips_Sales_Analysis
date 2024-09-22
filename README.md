@@ -1,5 +1,5 @@
 # Chips_Sales_Analysis (Virtual Internship)
- This project evaluating how different customer segments and trial stores are performing for a major retailer. This analysis dives into data-driven insights, highlighting customer behavior, product preferences, and how marketing strategies are affecting sales across various store locations.
+ This project evaluates how different customer segments and trial stores are performing for a major retailer. This analysis dives into data-driven insights, highlighting customer behavior, product preferences, and how marketing strategies are affecting sales across various store locations.
 
 # Executive Summary
 Quantium's retail analytics team which i was privileged to be part of,conducted an in-depth study of customer purchasing behavior in the chips category to guide strategic decisions for the next half-year. The goal was to evaluate how trial store layouts compared to regular store setups, focusing on key metrics like total sales, customer engagement, and shopping patterns. My findings showed that trial stores 77 and 88 saw notable sales growth, driven by an increase in customer visits, while store 86 didn’t perform much differently from its control. My recommendation was to adopt successful strategies from the trial stores to boost customer traffic across all locations.
